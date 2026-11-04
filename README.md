@@ -1,6 +1,6 @@
 # Pharm Rover
 
-**Embodied Agentic AI for Pharmacy Prescription Pickup Verification**
+**Embodied Agentic AI for Pharmacy Prescription Pickup Verification in a Simulated Environment**
 
 Pharm Rover is a customer-facing robotic car that lives at the pharmacy front desk. When a walk-in customer arrives, it confirms their identity, looks up their prescriptions, drives to the correct shelves, scans each medicine's QR code, and reports whether the prescription is filled and ready for pickup.
 
